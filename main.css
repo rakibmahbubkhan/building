@@ -405,7 +405,7 @@ h1{
 
 @media (max-width: 700px) {
   h1{
-    font-size: 1rem;
+    font-size: .9rem;
   }
   span{
     font-size: .5rem;
