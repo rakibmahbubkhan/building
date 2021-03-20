@@ -429,4 +429,8 @@ h1{
       position: relative;
       right: 10%;
    }
+    .nav{
+     position: relative;
+     right: 40%;
+   }
 }
