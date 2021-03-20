@@ -402,14 +402,26 @@ h1{
                                 /* GLOBAL CSS END */
 
 
-
-@media (min-width: 992px) {
-    .container {
-        
-     }
+@media (min-width: 1360px) {
+    .banner-text{
+      font-size: 4rem;
+    }
 }
 
-@media (min-width: 992px) {
-    
+@media (max-width: 650px) {
+  h1{
+    font-size: 1rem;
+  }
+  .icon{
+    font-size: 2rem;
+    top: 50%;
+  }
+    .banner-text{
+      font-size: 2rem;
+      padding-bottom: 10px;
+      width: 100%;
     }
+   .ourservices-h1{
+
+   }
 }
