@@ -21,7 +21,7 @@ h1{
     font-size: 4rem;
     position: relative;
     top: 32%;
-    left: 25%;
+    
 }
 .top_head{
     background-color: rgb(238, 227, 227);
@@ -429,7 +429,10 @@ h1{
       position: relative;
       right: 10%;
    }
-    .nav{
+   .vid-side-w{
+     width: 80%;
+   }
+   .nav{
      position: relative;
      right: 15%;
    }
